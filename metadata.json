@@ -1,0 +1,6 @@
+{
+  "name": "JSON Easy Editor",
+  "description": "Visual engine for pruning, projecting, mapping, and transforming complex JSON structures with high performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
